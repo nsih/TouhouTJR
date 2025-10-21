@@ -1,4 +1,4 @@
-# 🚀 TOUHOU Roguelike Shooting Game
+# TOUHOU Roguelike Shooting Game
 
 ---
 
