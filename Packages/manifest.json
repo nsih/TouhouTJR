@@ -1,5 +1,10 @@
 {
   "dependencies": {
+    "com.annulusgames.lit-motion": "git+https://github.com/annulusgames/LitMotion.git?path=src/LitMotion/Assets/LitMotion",
+    "com.boxqkrtm.ide.cursor": "git+https://github.com/boxqkrtm/com.unity.ide.cursor.git",
+    "com.gitamend.improvedtimers": "git+https://github.com/adammyhre/Unity-Improved-Timers.git",
+    "com.gitamend.unityutils": "git+https://github.com/adammyhre/Unity-Utils.git",
+    "com.github-glitchenzo.nugetforunity": "git+https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
     "com.unity.collab-proxy": "2.9.3",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.ide.rider": "3.0.38",
